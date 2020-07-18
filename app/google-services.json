@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "504227242106",
+    "firebase_url": "https://nl-covid-19-project.firebaseio.com",
+    "project_id": "nl-covid-19-project",
+    "storage_bucket": "nl-covid-19-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504227242106:android:3b39d97ec8f5ce28615bc3",
+        "android_client_info": {
+          "package_name": "com.nlcovid19project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504227242106-lvkcvhjohe45cpvgk81gamd07j9ar9oo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nlcovid19project",
+            "certificate_hash": "3f53be243442d811b77aa9d3729ab4b94f21b2b4"
+          }
+        },
+        {
+          "client_id": "504227242106-vunpf5t0p1h66ua2he38q3lpf1csvnm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nlcovid19project",
+            "certificate_hash": "33e25df967642050da617acca8eab6d08cc35f0c"
+          }
+        },
+        {
+          "client_id": "504227242106-ns5dtgc6mbmhieo4jiqlc619s5gtfosu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxXSBbbsFHDKYlTn8_Zbe79BmAUGSKJps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504227242106-ns5dtgc6mbmhieo4jiqlc619s5gtfosu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

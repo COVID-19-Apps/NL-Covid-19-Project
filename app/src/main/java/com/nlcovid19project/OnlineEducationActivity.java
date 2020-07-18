@@ -59,13 +59,13 @@ public class OnlineEducationActivity extends AppCompatActivity {
             public void onItemClick(AdapterView<?> parent, View view,
                                     int position, long id) {
                 switch (position) {
-                    case 1:
+                    case 0:
                         Intent intent2 = new Intent(Intent.ACTION_VIEW);
                         intent2.setData(Uri.parse(cbse));
                         startActivity(intent2);
                         break;
 
-                    case 2:
+                    case 1:
                         Intent intent3 = new Intent(Intent.ACTION_VIEW);
                         intent3.setData(Uri.parse(vc));
                         startActivity(intent3);
